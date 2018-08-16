@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile</string>
+    <string name="welcome_nhome">Welcome Home</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_home">Welcome Home</string>
+</resources>
